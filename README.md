@@ -23,7 +23,7 @@
 <h3 align="center">Welcome to my github, i dont have much but feel free to explore.</h3>
 
 ###
-
+![Alt Text](https://i.redd.it/kjh2j57syah71.gif)
   <img align="center" height="250" src="https://i.redd.it/kjh2j57syah71.gif"  />
 
 <div align="center">
