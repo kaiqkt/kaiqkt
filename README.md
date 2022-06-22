@@ -38,11 +38,3 @@
 <img href="https://raw.githubusercontent.com/kaiqkt/kaiqkt/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31osbtle25vc46glk2udilks3rcm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
