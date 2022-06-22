@@ -24,9 +24,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://i.redd.it/kjh2j57syah71.gif"  />
-</div>
+  <img align="center" height="250" src="https://i.redd.it/kjh2j57syah71.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=kaiqkt" height="150" alt="stats graph"  />
