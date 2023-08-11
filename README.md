@@ -20,9 +20,6 @@
 
 ###
 
-<h3 align="center">Welcome to my github, i dont have much but feel free to explore.</h3>
-
-
 <div align="center">
   <img height="250" src="img/m.gif"  />
 </div>
